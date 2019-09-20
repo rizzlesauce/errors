@@ -1,5 +1,5 @@
 {
-  "name": "@oclif/errors",
+  "name": "@rizzlesauce/oclif-errors",
   "description": "display friendly CLI errors and log to error log",
   "version": "1.2.2",
   "author": "Jeff Dickey @jdxcode",
@@ -36,7 +36,7 @@
     "/handle.js",
     "/lib"
   ],
-  "homepage": "https://github.com/oclif/errors",
+  "homepage": "https://github.com/rizzlesauce/errors",
   "keywords": [
     "oclif"
   ],
